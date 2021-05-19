@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904133894366",
+    "firebase_url": "https://tut-signin.firebaseio.com",
+    "project_id": "tut-signin",
+    "storage_bucket": "tut-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904133894366:android:37a318a78b53082cc2624f",
+        "android_client_info": {
+          "package_name": "com.example.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904133894366-0gh4kf1cvs6qloi80qlrkq47u6ihsl6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5DASJPCayrn83z9wWPhvjuU2kOnbe8l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904133894366-0gh4kf1cvs6qloi80qlrkq47u6ihsl6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
